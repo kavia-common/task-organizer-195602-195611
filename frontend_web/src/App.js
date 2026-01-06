@@ -231,7 +231,7 @@ function App() {
 
         <footer className="Footer">
           <span>
-            Tip: set <code>REACT_APP_API_BASE_URL</code> to your backend URL (e.g. :3001).
+            Tip: set <code>REACT_APP_API_BASE</code> to your backend URL (e.g. https://&lt;host&gt;:3001).
           </span>
         </footer>
       </div>
